@@ -7,4 +7,4 @@ I used the script to connect to my Linux-Ubuntu virtual machine. I then sent a c
 
 It is really important to always close the SSH connections once all the tasks are completed.
 
-Here is Paramiko's docmumentation : https://docs.paramiko.org/en/stable/
+Here is Paramiko's docmumentation for more details : https://docs.paramiko.org/en/stable/
